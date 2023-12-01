@@ -44,6 +44,7 @@ cd ../frontend
 npm install
 npm start
 
+// http://localhost:3000/
 // You should be ready to play! 🖖
 ```
 

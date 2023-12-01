@@ -61,7 +61,7 @@ npm start
 
 ## Roadmap
 
-Some of the possible future implementations that can be done on the project:
+Some of the possible future implementations that can be made on the project:
 - Split the backend in multiple layers
 - Use a real DB
 - Implement Fluent Validation for fields validation

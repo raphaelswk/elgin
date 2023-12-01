@@ -1,6 +1,9 @@
 # Elgin Energy Order
 This project is a simple Order Management System implemented using React for the frontend and .Net Core 6 for the backend.
 
+![image](https://github.com/raphaelswk/elgin/assets/36797153/a3d2f12d-b15b-4027-8945-7ad450612580)
+
+
 ## Table of Contents
 - [About](#about)
 - [Features](#features)

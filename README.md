@@ -38,6 +38,7 @@ Clone the repository to your local machine:
 git clone https://github.com/raphaelswk/finbourne.git
 cd finbourne
 dotnet build
+dotnet run --project BE.Presentation.API
 
 cd ../frontend
 npm install

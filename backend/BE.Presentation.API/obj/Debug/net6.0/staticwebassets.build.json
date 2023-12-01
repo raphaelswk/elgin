@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qk2O1BjJJDGdYCIfpkwlNVCCrKOjtqwN0iXszjkp1w0=",
+  "Source": "BE.Presentation.API",
+  "BasePath": "_content/BE.Presentation.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

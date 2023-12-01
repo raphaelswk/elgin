@@ -1,0 +1,12 @@
+C:\Code\test\elgin\backend\BE.Entities\bin\Debug\net6.0\BE.Entities.deps.json
+C:\Code\test\elgin\backend\BE.Entities\bin\Debug\net6.0\BE.Entities.dll
+C:\Code\test\elgin\backend\BE.Entities\bin\Debug\net6.0\BE.Entities.pdb
+C:\Code\test\elgin\backend\BE.Entities\obj\Debug\net6.0\BE.Entities.csproj.AssemblyReference.cache
+C:\Code\test\elgin\backend\BE.Entities\obj\Debug\net6.0\BE.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\test\elgin\backend\BE.Entities\obj\Debug\net6.0\BE.Entities.AssemblyInfoInputs.cache
+C:\Code\test\elgin\backend\BE.Entities\obj\Debug\net6.0\BE.Entities.AssemblyInfo.cs
+C:\Code\test\elgin\backend\BE.Entities\obj\Debug\net6.0\BE.Entities.csproj.CoreCompileInputs.cache
+C:\Code\test\elgin\backend\BE.Entities\obj\Debug\net6.0\BE.Entities.dll
+C:\Code\test\elgin\backend\BE.Entities\obj\Debug\net6.0\refint\BE.Entities.dll
+C:\Code\test\elgin\backend\BE.Entities\obj\Debug\net6.0\BE.Entities.pdb
+C:\Code\test\elgin\backend\BE.Entities\obj\Debug\net6.0\ref\BE.Entities.dll

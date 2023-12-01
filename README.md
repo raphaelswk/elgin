@@ -39,6 +39,10 @@ git clone https://github.com/raphaelswk/finbourne.git
 cd finbourne
 dotnet build
 
+cd ../frontend
+npm install
+npm start
+
 // You should be ready to play! 🖖
 ```
 

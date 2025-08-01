@@ -38,8 +38,8 @@ The Order Management System allows users to manage orders by performing various 
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/raphaelswk/finbourne.git
-cd finbourne
+git clone https://github.com/raphaelswk/elgin.git
+cd elgin
 dotnet build
 dotnet run --project BE.Presentation.API
 
